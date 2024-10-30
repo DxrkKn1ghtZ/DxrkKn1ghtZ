@@ -38,7 +38,6 @@
           <footer>
             <p>&copy; 2024 Jersey Store</p>
           </footer>
-          <script src="scripts.js"> 
           </script>
         </body>
         </html>
