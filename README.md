@@ -27,7 +27,7 @@
             <section id="products">
               <h2>Our Jerseys</h2>
               <div class="product">
-                <img src="jersey1.jpg" alt="Jersey 1">
+               <img src="Classic Red jersey.jfif" width="230" height="130"/>
                 <p>Classic Red Jersey - $49.99</p>
               </div> <div class="product">
                 <img src="jersey2.jpg" alt="Jersey 2">
