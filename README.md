@@ -28,10 +28,13 @@
               <h2>Our Jerseys</h2>
               <div class="product">
                <img src="Classic Red Jersey.jpg" width="230" height="130"/>
-                <p>Classic Red Jersey - $49.99</p>
+                <p>Classic Red Jersey - $109.99</p>
               </div> <div class="product">
                 <img src="jersey2.jpg" alt="Jersey 2">
                 <p>Vintage Blue Jersey - $59.99</p>
+              </div> <div class="product">
+                <img src="jersey3.jpg" alt="Jersey 3">
+                <p>Classic Pink Jersey - $79.99</p>
               </div>
             </section>
           </main>
