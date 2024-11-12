@@ -30,8 +30,8 @@
                <img src="Classic Red Jersey.jpg" width="360" height="360"/>
       <p>Classic Red Jersey - $109.99</p>
               </div> <div class="product">
-                <img src="jersey2.jpg" alt="Jersey 2">
-                <p>Vintage Blue Jersey - $59.99</p>
+                <img src="Vintage Blue Jersey.jpg" width="360" height="360/>
+                <p>Vintage Blue Jersey - $110.0</p>
               </div> <div class="product">
                 <img src="jersey3.jpg" alt="Jersey 3">
                 <p>Classic Pink Jersey - $79.99</p>
