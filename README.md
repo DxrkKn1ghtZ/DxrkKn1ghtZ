@@ -5,20 +5,20 @@
     <meta name="viewport"
       content="width=device-width
        initial-scale=1.0">
-    <title>Jersey Store</title>
+    <title>Jersey.Com</title>
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
     <header>
-      <h1>Welcome to Jersey Store</h1>
+      <h1>Welcome to Jersey.Com</h1>
     </header>
     <nav>
       <ul>
         <li>
           <a href="#">
             Home</a></li>
-        <li><ahref="#">
-          Shop</a></li>
+        <li><a href="#">
+            Shop</a></li>
           <li><a href="#">
             Contact</a></li>
         </ul>
@@ -27,8 +27,8 @@
             <section id="products">
               <h2>Our Jerseys</h2>
               <div class="product">
-               <img src="Classic Red Jersey.jpg" width="230" height="130"/>
-                <p>Classic Red Jersey - $109.99</p>
+               <img src="Classic Red Jersey.jpg" width="360" height="360"/>
+      <p>Classic Red Jersey - $109.99</p>
               </div> <div class="product">
                 <img src="jersey2.jpg" alt="Jersey 2">
                 <p>Vintage Blue Jersey - $59.99</p>
