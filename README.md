@@ -10,13 +10,10 @@
   </head>
   <body>
     <header>
-      <h1>Welcome to Jersey.Com</h1>
+      <h1>Welcome to Jersey.Com Home Page</h1>
     </header>
     <nav>
       <ul>
-        <li>
-          <a href="#">
-            Home</a></li>
         <li><a href="#">
             Shop</a></li>
           <li><a href="#">
@@ -25,16 +22,12 @@
         </nav>
           <main>
             <section id="products">
-              <h2>Our Jerseys</h2>
+              <h2>Some of our Jerseys</h2>
               <div class="product">
                <img src="Classic Red Jersey.jpg" width="360" height="360"/>
-      <p>Classic Red Jersey - $115.99</p>
               </div> <div class="product">
-                <img src="Vintage Blue Jersey.jpg" width="360" height="360/>
-                <p>Vintage Blue Jersey - $110.00</p>
+                <img src="Vintage Blue Jersey.jpg" width="360" height="360"/>
               </div> <div class="product">
-                <img src="Classic Pink Jersey" width="360" height="360/>
-                <p>Classic Pink Jersey - $136.99</p>
               </div>
             </section>
           </main>
