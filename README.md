@@ -6,6 +6,7 @@
       content="width=device-width
        initial-scale=1.0">
     <title>Jersey.Com</title>
+    <img src="Jersey.Com Logo.jpg" width="220" height="220"/>
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
