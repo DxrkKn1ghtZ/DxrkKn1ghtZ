@@ -18,7 +18,7 @@
         <li><a href="#">
             Shop</a></li>
           <li><a href="#">
-          <a href="https://github.com/DxrkKn1ghtZ/DxrkKn1ghtZ/blob/main/Contacts.html/">Contacts</a>
+          <a href="(https://github.com/DxrkKn1ghtZ/DxrkKn1ghtZ/blob/main/[Contacts].html)">Contacts</a>
         </li>
         </ul>
         </nav>
