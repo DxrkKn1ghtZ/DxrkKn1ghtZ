@@ -18,7 +18,7 @@
         <li><a href="#">
             Shop</a></li>
           <li><a href="#">
-          <a href="contacts.md">Contacts</a>
+          <a href="Contacts.html">Contacts</a>
         </li>
         </ul>
         </nav>
